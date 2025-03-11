@@ -78,8 +78,8 @@ async def reddit_sentiment_analysis(subject_name, subject_code):
     user_agent = "asyncpraw_SA"
 
     reddit = asyncpraw.Reddit(
-        client_id="pwyCbnKLNoN6g4E4VIHRJw",
-        client_secret="v1aOBmrFZ1p5caXrisgmO2oHzLRILg",
+        client_id="Use Reddit API",
+        client_secret="Use Reddit API",
         user_agent=user_agent
     )
 
